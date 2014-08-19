@@ -2,7 +2,6 @@
 *.txt
 *.htm
 *.html
-*.csv
 *.docx
 .settings/*
 
