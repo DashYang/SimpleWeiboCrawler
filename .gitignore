@@ -1,4 +1,10 @@
 *.class
+*.txt
+*.htm
+*.html
+*.csv
+*.docx
+.settings/*
 
 # Mobile Tools for Java (J2ME)
 .mtj.tmp/
